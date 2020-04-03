@@ -1,0 +1,28 @@
+in this folder there is our implementation code to detect cars in college garage and our prototype
+
+First you have to download this libraries to use yolo approach algorithm :
+- opencv (cv2)
+- tensorflow
+- Cython
+
+then you can see this youtube list to download darkflow library - yolo implementation library in  python - 
+	https://www.youtube.com/playlist?list=PLX-LrBk6h3wSGvuTnxB2Kj358XfctL4BM
+
+
+In our project we customize our model to detect cars only as you can see in the videos .
+
+you can see our model for college garage in our google drive 
+
+https://drive.google.com/drive/folders/1Zy-ROXm71hCQ_lst-wLGq7CWsssZi5Na?usp=sharing
+
+Thanks ..
+SPMS 
+
+
+
+contacts :
+Dyaa Elden Yahya (Dyaa Elshater)
+01148472211
+dyaa.shater@gmail.com
+
+
